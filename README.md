@@ -12,14 +12,20 @@ The proteus simulator simulates the collection of data in sensors that will then
 
 # Versions
 ``` 
-PHP ----------------Version 7.2.34
-Java----------------Version 8 update 281 (compilation 1.8.0_281-b09)
-Proteus-------------Version 8.5 SP0 (Build 22067)
-Arduino-------------Version 1.8.12
-Netbeans------------Version 8.2 (Build 201609300101)
-Visual Studio Code--Version 1.53.2
-VSPE----------------Version 6.2.9200.2
-Xampp---------------Version 7.2.34
+Software
+PHP -----------------Version 7.2.34
+Java-----------------Version 8 update 281 (compilation 1.8.0_281-b09)
+Proteus--------------Version 8.5 SP0 (Build 22067)
+Arduino--------------Version 1.8.12
+Netbeans-------------Version 8.2 (Build 201609300101)
+Visual Studio Code---Version 1.53.2
+VSPE-----------------Version 6.2.9200.2
+Xampp----------------Version 7.2.34
+
+Library
+ArduinoJson----------------------Vesrion 6.17.2
+PanamaHitek_Arduino--------------Version 3.0.0
+org.eclipse.paho.client.mqttv3---Version 1.1.0
 ``` 
 
 # Testing video
